@@ -1,0 +1,33 @@
+exit
+compile
+~compile
+xit
+exit
+~compile
+help
+help run
+run
+scalaVersion
+set ThisBuild / scalaVersion := "2.12.7"
+run
+session save
+reload
+run
+reload
+test
+~testQuick
+compile
+rebuild
+reload
+run
+reload
+run
+console
+n
+console
+reload
+projects
+helloCore/compile
+reload
+~testQuick
+reload
