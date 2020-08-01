@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["/home/elauser/foo-build/core/target/streams/compile/compileOutputs/_global/streams/inc_compile_2.12.zip"]]
+["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["/home/elauser/foo-build/core/target/scala-2.12/classes/example/core/Weather$.class","/home/elauser/foo-build/core/target/scala-2.12/classes/example/core/Weather.class","/home/elauser/foo-build/core/target/streams/compile/compileOutputs/_global/streams/inc_compile_2.12.zip"]]
